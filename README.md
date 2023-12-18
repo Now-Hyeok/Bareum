@@ -11,7 +11,7 @@
 
 ### 프로젝트 설명
 
-KT Aivle School 빅프로젝트 프로젝트
+KT Aivle School 빅프로젝트
 
 ### 프로젝트 기간 및 참여인원
 
